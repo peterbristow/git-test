@@ -18,6 +18,8 @@ Work with a new up-stream repo
 - `git commit -a`  # opens the commit to add/amend a message. 
 - `git checkout master`
 - `git merge --log --stat --no-commit my_branch`
+- `git push`
+
 - `git commit -a`
 - `git checkout my_branch`
 - `git log --stat`
