@@ -19,7 +19,7 @@ Work with a new up-stream repo
 - `git merge my_branch`  # merge my_branch into master.
 - `git push` # push changes on master to github.
 
-###Add a change directly to master (without using a new branch)
+### Add a change directly to master (without using a new branch)
 
 - Make required changes
 - `git commit -a`  # opens the commit to add/amend a message. 
