@@ -17,10 +17,10 @@ Work with a new up-stream repo
 - `git commit -a`  # opens the commit to add/amend a message. 
 - `git checkout master`
 - `git merge my_branch`  # merge my_branch into master.
-- `git push` # push changes on master to github.
+- `git push origin master`  # push changes on master to github.
 
 ### Add a change directly to master (without using a new branch)
 
 - Make required changes
 - `git commit -a`  # opens the commit to add/amend a message. 
-- `git push` # push changes on master to github.
+- `git push origin master`  # push changes on master to github.
