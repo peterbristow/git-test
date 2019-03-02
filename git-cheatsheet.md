@@ -15,9 +15,10 @@ Work with a new up-stream repo
 - `git checkout -b my_branch`
 - Make required changes
 - `git add file_name`
-- `git commit -m "Commit message ..."`
+- `git commit -a`  # opens the commit to add/amend a message. 
 - `git checkout master`
 - `git merge --log --stat --no-commit my_branch`
 - `git commit -a`
 - `git checkout my_branch`
 - `git log --stat`
+
