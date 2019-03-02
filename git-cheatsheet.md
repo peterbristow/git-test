@@ -17,10 +17,6 @@ Work with a new up-stream repo
 - `git add file_name`
 - `git commit -a`  # opens the commit to add/amend a message. 
 - `git checkout master`
-- `git merge --log --stat --no-commit my_branch`
-- `git push`
-
-- `git commit -a`
-- `git checkout my_branch`
-- `git log --stat`
+- `git merge my_branch`  # merge my_branch into master.
+- `git push`  # push changes on master to github.
 
